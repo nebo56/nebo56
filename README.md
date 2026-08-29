@@ -17,6 +17,6 @@ genomic foundation models to experimental data.
 - [Insights into the design and interpretation of iCLIP experiments](https://link.springer.com/article/10.1186/s13059-016-1130-x)
   — *Genome Biology* 2017
 - [Transcriptome-wide branchpoint detection](https://www.nature.com/articles/s41594-019-0300-4) — *Nat Struct Mol Biol* 2019
-  · code: [branch-point-detection-2](https://github.com/nebo56/branch-point-detection-2)
+  · code: [Branchpoint-detection-from-spliceosome-iCLIP](https://github.com/nebo56/Branchpoint-detection-from-spliceosome-iCLIP)
 
-[Google Scholar]((https://scholar.google.com/citations?user=tTS4RSkAAAAJ&hl=en)) · [Imperial profile](https://www.imperial.ac.uk/people/n.haberman) · [LinkedIn](https://www.linkedin.com/in/nejchaberman/)
+[Google Scholar](https://scholar.google.com/citations?user=tTS4RSkAAAAJ&hl=en) · [Imperial profile](https://www.imperial.ac.uk/people/n.haberman) · [LinkedIn](https://www.linkedin.com/in/nejchaberman/)
